@@ -16,3 +16,5 @@ eureka:
     hostname: order
 env:
   dev
+label:
+  release
